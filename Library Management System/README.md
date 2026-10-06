@@ -68,20 +68,4 @@ The system comes pre-seeded with 15 renowned works of Indian literature across m
 
 ---
 
-## 🚀 How to Run
 
-### Method 1: Double-Click Launcher (Windows)
-Double-click `run.bat` in this folder. It will start a local server or directly open `index.html` in your default browser.
-
-### Method 2: Direct Browser Opening
-Simply double-click `index.html` or drag it into Google Chrome, Microsoft Edge, Firefox, or Safari.
-
-### Method 3: Using npm or Python
-```bash
-# Using Python
-python -m http.server 8000
-
-# Using npm
-npm start
-```
-Open [http://localhost:8000](http://localhost:8000) or [http://localhost:3000](http://localhost:3000) in your web browser.
