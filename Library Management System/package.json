@@ -1,0 +1,20 @@
+{
+  "name": "granthalaya-library-management-system",
+  "version": "1.0.0",
+  "description": "Granthālaya - Heritage Classical Indian Library Management System",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx --yes serve . -l 3000",
+    "serve": "npx --yes serve .",
+    "dev": "npx --yes serve ."
+  },
+  "keywords": [
+    "library-management-system",
+    "granthalaya",
+    "indian-books",
+    "parchment-ui",
+    "athenaeum"
+  ],
+  "author": "Granthālaya Archives",
+  "license": "MIT"
+}
